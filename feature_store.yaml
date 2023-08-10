@@ -1,4 +1,4 @@
-project: project_name
+project: domino_feast
 registry: data/registry.db
 provider: local
 offline_store:
